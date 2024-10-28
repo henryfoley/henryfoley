@@ -17,34 +17,23 @@
 
 <h3 align="left">Work Experience:</h3>
 
-- 📄 Know about my experiences [https://www.henryfoley.com/resume/](https://www.henryfoley.com/resume/)
+📄 Resume [https://www.henryfoley.com/resume/](https://www.henryfoley.com/resume/)
 
-[‘Riptide’ Capstone Game](https://www.henryfoley.com/riptide/), Champlain College, Burlington, VT             Sep 2023 -  May 2024
-Project Co-Lead / Lead Artist / Technical Artist                       (Team of 17)
+[‘Riptide’ Capstone Game](https://www.henryfoley.com/riptide/) (Sep 2023 -  May 2024)
+Project Co-Lead / Lead Artist / Technical Artist
 
-Created Houdini and Python tools for the Design and Art team. Developed and maintained art pipeline
-Designed and implemented a Master Material system that accelerated art development and implementation
 
-[‘Manas’ AGP Game](https://www.henryfoley.com/manas/), USC, Remote                                          May 2022 -  May 2023
+[‘Manas’ AGP Game](https://www.henryfoley.com/manas/) (May 2022 -  May 2023)
 
-Technical Artist                                                       (Team of 40)
+Technical Artist
 
-Developed procedural assets, VFX, and shader/material systems, enhancing key aspects of the game's visuals
-Created the Procedural Grass System and authored detailed documentation for the environment art team
+[Songs of Sugar](https://www.henryfoley.com/songs-of-sugar/) (Jan 2023 -  May 2023)
 
-[Songs of Sugar](https://www.henryfoley.com/songs-of-sugar/) , Abertay University,  Dundee, Scotland                  Jan 2023 -  May 2023
+Technical Artist / Producer
 
-Technical Artist / Producer                                             (Team of 6)
+[VizBoXR](https://www.henryfoley.com/vizboxr/), (Jun 2022 -  Dec 2022)
 
-Developed procedural game assets with Houdini and created shaders/materials using Unity Shader Graph
-Optimized assets to ensure smooth performance in augmented reality applications on mobile devices
-
-[VizBoXR](https://www.henryfoley.com/vizboxr/), Emergent Media Center, Burlington, VT                          Jun 2022 -  Dec 2022
-
-Technical Artist                                                        (Team of 4)
-
-Utilized Unity to create VR/AR experiences, implementing features using C# and Shader Graph
-Collaborated closely with a multidisciplinary team to create a playable VR prototype for a client
+Technical Artist
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
