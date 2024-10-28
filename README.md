@@ -17,23 +17,15 @@
 
 <h3 align="left">Work Experience:</h3>
 
-📄 Resume [https://www.henryfoley.com/resume/](https://www.henryfoley.com/resume/)
+📄 **[Resume](https://www.henryfoley.com/resume/)**
 
-[‘Riptide’ Capstone Game](https://www.henryfoley.com/riptide/) (Sep 2023 -  May 2024)
-Project Co-Lead / Lead Artist / Technical Artist
+- 🪐 [‘Riptide’ Capstone Game](https://www.henryfoley.com/riptide/) (Sep 2023 -  May 2024) - Project Co-Lead / Lead Artist / Technical Artist
 
+- 🐎 [‘Manas’ AGP Game](https://www.henryfoley.com/manas/) (May 2022 -  May 2023) - Technical Artist
 
-[‘Manas’ AGP Game](https://www.henryfoley.com/manas/) (May 2022 -  May 2023)
+- 🌴 [Songs of Sugar](https://www.henryfoley.com/songs-of-sugar/) (Jan 2023 -  May 2023) - Technical Artist / Producer
 
-Technical Artist
-
-[Songs of Sugar](https://www.henryfoley.com/songs-of-sugar/) (Jan 2023 -  May 2023)
-
-Technical Artist / Producer
-
-[VizBoXR](https://www.henryfoley.com/vizboxr/), (Jun 2022 -  Dec 2022)
-
-Technical Artist
+- 📈 [VizBoXR](https://www.henryfoley.com/vizboxr/) (Jun 2022 -  Dec 2022) - Technical Artist
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
