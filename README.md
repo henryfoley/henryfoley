@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **henry@yelof.com**
   
-- ⚡ Fun fact **I'm working on obtaining my Irish citizenship 🇮🇪**
+- ⚡ Fun fact **I'm a dual US/Irish citizen 🇺🇸 🇮🇪**
 
 <h3 align="left">Work Experience:</h3>
 
