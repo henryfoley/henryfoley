@@ -3,9 +3,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on procedural forest generation [Procedural Monadnock](https://github.com/henryfoley/Procedural-Generation-Sandbox)
+- 🔭 I’m currently working on ML-based image detection in Houdini [VisTag](https://github.com/henryfoley/Houdini-Python)
 
-- 🌱 I’m currently learning **Unreal PCG**
+- 🌱 I’m currently learning **Houdini-Python**
 
 - 👨‍💻 All of my projects are available at [https://www.henryfoley.com/](https://www.henryfoley.com/)
 
